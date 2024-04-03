@@ -3,7 +3,7 @@ import './Sidebar.css'
 import { assets } from '../../assets/assets'
 import { useState } from 'react'
 import { useContext } from 'react'
-import { Context } from '../../../../chadgpt/src/context/Context'
+import { Context } from '../../context/Context'
 
 const Sidebar = () => {
 

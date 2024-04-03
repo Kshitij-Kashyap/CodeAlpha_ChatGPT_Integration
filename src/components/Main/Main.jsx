@@ -2,7 +2,7 @@ import React, { useContext } from 'react'
 import './Main.css'
 import { assets } from '../../assets/assets'
 import { useCallback } from 'react'
-import { Context } from '../../../../chadgpt/src/context/Context'
+import { Context } from '../../context/Context'
 
 const Main = () => {
 
